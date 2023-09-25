@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['coletar arquivos da ANS.py', 'coletar e preparar dados.py', 'Análise dados socioeconomicos - v2.py', 'analise plano1.py', 'C:\\Users\\jefer\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axes\\_base.py', 'C:\\Users\\jefer\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\keras\\src\\utils\\traceback_utils.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
