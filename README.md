@@ -1,2 +1,2 @@
 # ModelosPreditivosSaudeSuplementar
-Repositório com projeto para criação de modelos preditivos dos beneficiários ativos para operadoras de saúde suplementar.
+Repositório com projeto para criação de modelos preditivos para beneficiários ativos das operadoras de saúde suplementar.
